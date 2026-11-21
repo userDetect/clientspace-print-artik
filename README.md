@@ -1,7 +1,9 @@
-# АРТиК · демо ClientSpace
+# АРТиК · концепт ClientSpace
 
-[Демо](https://userdetect.github.io/clientspace-print-artik/) также можно открыть локально через любой статический HTTP-сервер.
+- [Демо сайта](https://userdetect.github.io/clientspace-print-artik/)
+- [Демо CRM](https://userdetect.github.io/clientspace-print-artik/crm.html)
+- [Действующий сайт](https://artiknn.ru/)
 
-Форма формирует черновик в браузере. Для приёма заказов понадобится подключить канал доставки заявок.
+Форма и CRM используют IndexedDB. Созданные в демо заявки и файлы хранятся в браузере. Сравнивать форму и CRM нужно в одном браузерном профиле.
 
-[Действующий сайт](https://artiknn.ru/)
+- [Крышные установки](https://artiknn.ru/portfolio/)
